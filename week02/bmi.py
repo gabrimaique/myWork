@@ -3,4 +3,4 @@ weight = float(input("Input your weight in Kilogram: "))
 
 BMI = weight / (height/100)**2
 
-print(f"You BMI is {BMI}")
+print(f"You BMI is {BMI}")git 
